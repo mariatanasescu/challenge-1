@@ -9,8 +9,8 @@ Existing code is edited in order to optimise readability and the scout code meth
 
 ## Credits
 
-This project was undertaken by Maria Tanasescu @mariatanasescu on github
-The following references have been used:
+This project was undertaken by Maria Tanasescu, @mariatanasescu on github
+Most of the resources that helped during this process were on https://www.w3schools.com/, particularly the Semantic HTML and Positioning sections.
 
 
 ## License
